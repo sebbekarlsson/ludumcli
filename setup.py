@@ -6,7 +6,8 @@ setup(
     name='ludumcli',
     version='1.2',
     install_requires=[
-        'requests'
+        'requests',
+        'bs4'
     ],
     packages=[
         'ludumcli',
